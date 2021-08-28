@@ -3,31 +3,31 @@
 <summary>    [ CARA INSTALL ] </summary>
 
 - ```
- apt update &&apt upgrade -y
+apt update &&apt upgrade -y
 ```
 
 - ```
- apt install python
+apt install python
 ```
 
 - ```
-  pip install --upgrade pip
+pip install --upgrade pip
 ```
 
 - ```
-  pip install requests
+pip install requests
 ```
 
 - ```
-  git clone https://github.com/TermuxArt/IklanSms
+git clone https://github.com/TermuxArt/IklanSms
 ```
 
 - ```
-  cd IklanSms
+cd IklanSms
 ```
 
 - ```
- python sms.py
+python sms.py
 ```
 
 
